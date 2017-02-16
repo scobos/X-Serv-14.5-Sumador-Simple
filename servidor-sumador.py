@@ -1,8 +1,3 @@
-# Me has dado un 2. Dame mas
-# Me habias dado un 2. Ahora un 3. Suman 5
-# Me has dado una a. Vete
-#Me has dado un 2.45, Vete
-
 import socket
 
 mySocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
